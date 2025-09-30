@@ -1,7 +1,7 @@
 
 # Expense-Tracker MCP Server
 
-An **MCP (Model Context Protocol) server** built with [FastMCP](https://github.com/modelcontextprotocol/fastmcp) to help you track and analyze personal expenses.  
+An **MCP (Model Context Protocol) server** built with [FastMCP](https://github.com/jlowin/fastmcp) to help you track and analyze personal expenses.  
 This server is meant to be used with **MCP-compatible clients** such as **Claude Desktop**, and provides structured tools and resources for expense management.
 
 ---
